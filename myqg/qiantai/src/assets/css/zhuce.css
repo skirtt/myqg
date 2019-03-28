@@ -1,0 +1,71 @@
+.main {
+  float: left;
+  width: 1080px;
+  overflow: hidden;
+}
+.zhuce_1{
+  float: left;
+  width: 1080px;
+  height: 140px;
+  background-color: black;
+}
+.zhuce_1 img{
+  float: left;
+  margin-top: 50px;
+  margin-left: 37px;
+	width: 25px;
+  height: 45px;  
+}
+.zhuce_1_1{
+  float: left;
+  font-size: 42px;
+  color: white;
+  margin-left: 380px;
+  margin-top: 50px;
+}
+.zhuce_3{
+  float: left;
+  width: 1080px;
+  height: 2123px;
+  background-color: #efeff4;
+}
+.zhuce_3>input:nth-child(1){
+  float: left;
+  width: 1080px;
+  height: 110px;
+  font-size: 30px;
+  text-indent: 60px;
+  margin-top: 163px;
+  border: none;
+}
+.zhuce_3>input:nth-child(2){
+  float: left;
+  width: 1080px;
+  height: 110px;
+  font-size: 30px;
+  text-indent: 60px;
+  margin-top: 54px;
+  border: none;
+}
+.zhuce_3>input:nth-child(3){
+  float: left;
+  width: 947px;
+  height: 110px;
+  background-color: #9797a1;
+  border: none;
+  color: white;
+  font-size: 35px;
+  margin-left: 66px;
+  margin-top: 168px;
+}
+
+.abcd {
+  background: #fff url("../img/mima.gif") right 70px center no-repeat;
+}
+.zhuce{
+	float: left;
+	margin-top: 40px;
+	font-size: 40px;
+	margin-left: 350px;
+	color: black;
+}

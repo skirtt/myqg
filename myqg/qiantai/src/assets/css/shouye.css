@@ -1,0 +1,45 @@
+.shouye_1 img{
+  float: left;
+  width:1080px;
+  height: 140px;
+}
+.shouye_2 img{
+  float: left;
+  width:1080px;
+  height: 1988px;
+}
+.shouye_3{
+  float: left;
+  width: 1080px;
+  height: 140px;
+  background-color: black;
+}
+.shouye_3_1{
+  float: left;
+  width: 70px;
+  height: 140px;
+  margin-left: 151px;
+  margin-top: 24px;
+}
+.shouye_1_font{
+  color: white;
+  font-size: 22px;
+  margin-top: 15px;
+}
+.shouye_3_2{
+  float: left;
+  width: 70px;
+  height: 140px;
+  margin-left: 298px;
+  margin-top: 24px;
+}
+.shouye_2_font{
+  color: #727171;
+  font-size: 22px;
+  text-align: center;
+  margin-top: 15px;
+}
+.shouye_3_img img{
+	width: 58px;
+	height: 58px;
+}

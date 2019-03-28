@@ -1,0 +1,82 @@
+.main {
+  float: left;
+  width: 1080px;
+  overflow: hidden;
+}
+.denglu_1{
+  float: left;
+  width: 1080px;
+  height: 140px;
+  background-color: black;
+}
+.denglu_1 img{
+  float: left;
+  width: 25px;
+  height: 45px;
+  margin-top: 50px;
+  margin-left: 37px;
+}
+.denglu_1_1{
+  float: left;
+  font-size: 42px;
+  color: white;
+  margin-left: 400px;
+  margin-top: 50px;
+}
+.denglu_2{
+  float: left;
+  width: 1080px;
+  height: 2123px;
+  background-color: #efeff4;
+}
+.font_1{
+  font-size: 50px;
+  font-weight: bold;
+  margin-top: 184px;
+  margin-left: 120px;
+}
+.denglu_2>input:nth-child(2){
+  float: left;
+  width: 1080px;
+  margin-top: 96px;
+  border: none;
+  height: 115px;
+  font-size: 35px;
+  text-indent: 60px;
+  margin-bottom: 6px;
+}
+.denglu_2>input:nth-child(3){
+  float: left;
+  width: 1080px;
+  border: none;
+  height: 115px;
+  font-size: 35px;
+  text-indent: 60px;
+}
+.wangji{
+  float: left;
+  margin-left: 837px;
+  margin-top: 60px;
+  color: #9797a1;
+  width: 180px;
+  height: 40px;
+  font-size: 40px;
+}
+.denglu_2>input:nth-child(5){
+  float: left;
+  width: 947px;
+  height: 110px;
+  background-color: #9797a1;
+  border: none;
+  color: white;
+  font-size: 35px;
+  margin-left: 66px;
+  margin-top: 60px;
+}
+.denglu{
+	float: left;
+	margin-top: 40px;
+	font-size: 40px;
+	margin-left: 350px;
+	color: black;
+}
